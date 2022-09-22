@@ -12,7 +12,7 @@
     "require": {
         "php": ">=7.4.0",
         "illuminate/support": "^9.17.0",
-        "pelago/emogrifier": "^3.0|^4.0|^5.0|^6.0"
+        "pelago/emogrifier": "dev-main",
     },
     "autoload": {
         "psr-0": {
